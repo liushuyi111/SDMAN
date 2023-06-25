@@ -1,0 +1,14 @@
+keyword: MultiHeadAttention
+config:
+  embed_size: '2048'
+  d_i: '128,128'
+  n_heads: '1'
+  hid_dim: '512'
+  out_dim: '128'
+  output_dim: '63'
+  dropout: '0.1'
+
+
+
+
+

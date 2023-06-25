@@ -1,0 +1,28 @@
+keyword: MULTModel
+config:
+  embed_size: 2048
+  output_dim: 63
+  hid_dim: 512
+  out_dim: 128
+  dropout: 0.1
+  d_i: 512,512
+  n_heads: 4
+  embed_dropout: 0.25
+  attn_dropout: 0.2
+  attn_dropout_a: 0.1
+  attn_dropout_v: 0.1
+  attn_dropout_vat: 0.1
+  relu_dropout: 0.2
+  v: 0.1
+  a: 1
+  t: 1
+  D: 1
+
+
+
+
+
+
+
+
+
